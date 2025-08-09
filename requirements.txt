@@ -1,6 +1,8 @@
-ckanapi==4.8
+ckanapi
 pandasdmx==1.9.0
-requests==2.31.0
+requests
+pandas
+xmltodict==0.14.2
 # ckanapi-4.8
 # pandasdmx-1.9.0 
 # pydantic-2.5.3 
